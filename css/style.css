@@ -83,3 +83,9 @@ a:visited {
 .info_block img{
     width: 50%;
 }
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
